@@ -1,0 +1,59 @@
+.App {
+  text-align: center;
+}
+
+
+
+h1 {
+  font-size: 80px;
+}
+
+.column {
+  float: center;
+  width: 33%;
+}
+
+.columnLeft {
+  float: right;
+  width: 50%;
+}
+
+.columnRight {
+  float: left;
+  width: 50%;
+}
+
+h2 {
+  font-family: Courier New;
+  font-weight: 900;
+  font-size: 60px;
+  text-align: center;
+}
+
+#timer-label {
+  text-align: center;
+  font-family: Courier New;
+  border-radius: 50px;
+  border: 8px solid SeaGreen;
+  padding: 20px;
+  width: 350px;
+  height: 200px;
+  margin: auto;
+}
+
+#something1{
+  text-align: center;
+  font-family: Courier New;
+  padding: 30px;
+  margin: auto;
+  column-count: 2;
+  width: 500px;
+}
+
+#something2{
+  text-align: center;
+  margin: auto;
+  width: 500px;
+  padding: 20px;
+}
+
